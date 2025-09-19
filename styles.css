@@ -128,6 +128,43 @@ text-underline-offset: auto;
 text-underline-position: from-font;
 }
 
+
+.sec1{
+    margin: 102px 192px 0px 192px;
+    display: flex;
+    justify-content: center;
+    /* width: 1440px; */
+height: 240px;
+flex-shrink: 0;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+gap: 80px;
+}
+
+.sec1 div{
+    margin-top: 68px;
+
+}
+
+.sec1 img {
+    width: 70px;
+    height: 70px;
+    margin-left: 100px;
+}
+
+.sec1 p{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px; /* 145.833% */
+}
+
+.simg{
+    margin-right: 80px;
+
+}
 /* .img1{
     width: 635px;
 height: 800px;
