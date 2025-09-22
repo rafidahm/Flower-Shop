@@ -296,7 +296,39 @@ line-height: 30px; /* 166.667% */
 border: none;  
 }
 
-  
+
+footer{
+    background: #111010;
+    /* width: 1922px; */
+height: 350px;
+flex-shrink: 0;
+align-items: center;
+
+}
+footer h3 {
+    text-align: center;
+    color: #e55473;
+    font-size: 38px;
+    font-weight: 800;
+    padding-top: 102px;
+    padding-bottom: 20px;
+  }
+
+  footer h2 {
+    color: rgba(255, 255, 255, 0.9);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    padding-bottom: 25px;
+  }
+
+  footer p {
+    color: rgba(255, 255, 255, 0.4);
+    text-align: center;
+    font-size: 13px;
+    font-weight: 400;
+  }
 /* .img1{
     width: 635px;
 height: 800px;
