@@ -214,6 +214,89 @@ line-height: normal;
 }
 
 
+.insta{
+    text-align: center;
+    margin-top: 102px;
+    margin-left: 530px;
+    margin-right: 530px;
+}
+
+.insta h3{
+    color: #272727;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 18px;
+}
+
+.insta p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+
+.insta-img{
+    display: flex;
+    justify-content: center;
+    gap: 18px;
+    margin-top: 38px; 
+    /* width: 273px; */
+    height: 300px;
+    flex-shrink: 0;
+}
+
+
+
+.deal {
+    margin: 102px 192px;
+    width: 1152px;
+    height: 359px;
+    border-radius: 8px;
+    background-image: url("/Asset/Rectangle\ 9.png"); 
+  /* background-size: cover;  */
+  background-position: center; 
+  background-repeat: no-repeat;
+    /* background: url(<path-to-image>) lightgray 0px -203.444px / 100% 213.755% no-repeat; */
+    text-align: center; 
+    /* padding: 40px 20px; */
+  }
+  
+  .deal-div {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* margin: auto; */
+    padding: 100px 426px 0px 426px;
+    font-size: 20px;
+  }
+  .deal-div p{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+  }
+  
+  .f-div {
+    display: flex; 
+    margin-left: 230px;
+    margin-top: 30px;
+    gap: 10px; 
+  }
+  
+  .f-div input {
+    width: 500px; 
+    height: 40px;
+    /* border: 2px solid black; */
+    border-radius: 5px;
+border: none;  
+}
+
+  
 /* .img1{
     width: 635px;
 height: 800px;
